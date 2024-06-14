@@ -20,7 +20,7 @@ This repository provides an in-depth exploration of linear regression using PyTo
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/Linear_Regression_Pytorch.git
+    git clone https://github.com/yourusername/Linear_Regression_Pytorch.git](https://github.com/Claudio999222/Linear_Regression_Pytorch
     cd Linear_Regression_Pytorch
     ```
 
