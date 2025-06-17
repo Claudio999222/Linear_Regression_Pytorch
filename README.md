@@ -9,13 +9,6 @@ This repository provides an in-depth exploration of linear regression using PyTo
 - **Loss Function and Optimization**: Explore how to define a loss function (MSE) and optimize model parameters using the gradient descent algorithm.
 - **Practical Examples**: Implement practical examples and tutorials to illustrate the use of linear regression in real-world scenarios.
 
-## Contents
-
-- **01_introduction_linear_regression.ipynb**: Introduction to the basic concepts of linear regression.
-- **02_model_creation.ipynb**: Detailed guide on building a linear regression model in PyTorch.
-- **03_parameter_optimization.ipynb**: Deep dive into defining the loss function and optimizing model parameters.
-- **examples/**: A directory containing various practical examples and applications of linear regression.
-
 ## Getting Started
 
 1. **Clone the repository**:
